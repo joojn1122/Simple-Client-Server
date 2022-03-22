@@ -1,6 +1,5 @@
 import json
 import socket
-from classes.Player import Player
 from threading import Thread
 
 class Bridge:
